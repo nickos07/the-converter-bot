@@ -33,8 +33,8 @@ Designed with a focus on non-blocking I/O, robust cross-request state management
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/nickos07/the-converter-bot.git](https://github.com/nickos07/the-converter-bot.git)
+cd the-converter-bot
 
 ```
 
